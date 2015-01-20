@@ -1,0 +1,3 @@
+com\greenello\app\WordCount.class
+com\greenello\app\WordCount$Map.class
+com\greenello\app\WordCount$Reduce.class
